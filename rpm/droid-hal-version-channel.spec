@@ -1,11 +1,11 @@
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device river
+%define device channel
 %define vendor motorola
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Motorola
-%define device_pretty moto g7
+%define device_pretty moto g7 play
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
